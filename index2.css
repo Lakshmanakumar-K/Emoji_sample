@@ -1,0 +1,47 @@
+.box{
+	border: 1px solid green;
+}
+
+.mycontainer{
+	border: 1px solid green;
+}
+
+.myrow{
+	border: 1px solid green;
+}
+
+.mycol{
+	border: 1px solid green;
+}
+
+.heading{
+	text-align: center;
+}
+
+.secrow{
+}
+
+.seccol{
+	text-align:center;
+	padding: 20px;
+}
+
+.thirdrow{
+}
+
+.thirdcol{
+	text-align: center;
+	padding: 20px;
+}
+.fourrow{
+}
+
+.fourcol{
+	text-align: center;
+	padding: 20px;
+}
+
+.fifthrow{
+	
+}
+
